@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d0629c66edf699f45b3f546b942a57ef
+timeCreated: 1505953638
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Keep Calm
+  fontNames:
+  - Keep Calm
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 68c74160a5e10424a9925fd6fe638f4b, type: 3}
+  - {fileID: 12800000, guid: 3ef573cf41d6ec44ca6db64e7f752fc0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6a3e9df303c439e41b006a73356f346e
+timeCreated: 1505953626
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cowboys
+  fontNames:
+  - Cowboys
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5ad9bbf2e70c5c14ebd1431a5e3135fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

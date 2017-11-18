@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9da9359076037a5458e9ddb9717ee929
+timeCreated: 1505953632
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ancient
+  fontNames:
+  - Ancient
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a4a8d056a0a19f4594d7e0272b5be94, type: 3}
+  - {fileID: 12800000, guid: 75630de6e320d2c48a9e2d946c3afa9a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
